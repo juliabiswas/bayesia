@@ -1,13 +1,5 @@
 # Bayesia
 
-Bayesia is a love guru (more technically speaking, a Naive Bayes Classifier) that takes in information about two individuals’ preferences, personalities, and interests and determines the potential for a romantic relationship between them. Bayesia advises potential couples by 
-classifying their potential relationship as one of the following: a match, a one-sided
-attraction, or an unlikely relationship. 
+Bayesia is a love guru (more technically speaking, a Naive Bayes Classifier) that takes in information about two individuals’ preferences, personalities, and interests and determines the potential for a romantic relationship between them. Bayesia advises potential couples by classifying their potential relationship as one of the following: a match, a one-sided attraction, or an unlikely relationship. 
 
-Bayesia is trained on data collected by Columbia Business School professors Ray Fisman and 
-Sheena Iyengar during a speed dating experiment. The data was gathered across multiple 
-speed dating events from 2002 to 2004. While the data does limit the potential of the 
-model (the classifications are based on the results of speed dating rather than a longer 
-term relationship) the model can still serve in a number of ways: predicting the direction 
-of a relationship for two people who are friends but haven’t considered each other in a 
-romantic light before, predicting how a first date may go, and just for fun!
+Bayesia is trained on data collected by Columbia Business School professors Ray Fisman and Sheena Iyengar during a speed dating experiment. The data was gathered across multiple speed dating events from 2002 to 2004. While the data does limit the potential of the model (the classifications are based on the results of speed dating rather than a longer term relationship) the model can still serve in a number of ways: predicting the direction of a relationship for two people who are friends but haven’t considered each other in a romantic light before, predicting how a first date may go, and just for fun!
